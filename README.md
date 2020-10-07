@@ -1,28 +1,23 @@
-# This is a large heading
+# Joyce Fred
 
-## This is a smaller heading
+### learning Software Developer
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Ogudu, in the state of Lagos in Nigeria.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+My current favorite book is
+- *The unix of workbench* by Sean Kross
 
-Here is `some code` in the middle of a sentence.
+### Food 
 
-```
-This is
-a block
-of code
-```
+My favorite foods are:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Ofada rice with shrimp and chicken gravy sauce
+2. Afang soup
+3. Any yam food
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/joanalyst).
+
